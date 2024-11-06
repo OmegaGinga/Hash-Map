@@ -1,0 +1,13 @@
+{
+  "name": "hash-map",
+  "version": "1.0.0",
+  "description": "This is a practice of Hash Map",
+  "main": "main.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
